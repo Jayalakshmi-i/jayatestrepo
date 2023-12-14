@@ -21,6 +21,7 @@ Check more information at [Deploying our application securely in an Ec2 instance
 
 This project explains how to create an s3 bucket with all configurations and set a static website hosting to showcase a portfolio, projects, and resumes on AWS using Terraform.
 With Terraform, we can automate the process of S3 bucket creation and configuration, defining the bucket policy to make our website accessible.
+
 ![Terraform (2)](https://github.com/Jayalakshmi-i/jayatestrepo/assets/141424247/2fc6224e-5ac1-4c2b-9e89-107bcc48929c)
 
 
