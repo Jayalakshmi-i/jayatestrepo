@@ -24,4 +24,5 @@ With Terraform, we can automate the process of S3 bucket creation and configurat
 
 ![Terraform (2)](https://github.com/Jayalakshmi-i/jayatestrepo/assets/141424247/2fc6224e-5ac1-4c2b-9e89-107bcc48929c)
 
+<p>Check the Project files at: <a href="https://github.com/Jayalakshmi-i/Terraform-Static-website/">Click Here</a></p>
 
