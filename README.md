@@ -3,10 +3,7 @@ This project focuses on implementing a robust Continuous Integration and Continu
 
 ![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
 
-<p>Check the Project files at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
-
-Check more information at: [Deploy-war-app-on Docker Container Using Jenkins.pdf](https://github.com/Jayalakshmi-i/jayatestrepo/files/13615159/Deploy-war-app-on.Docker.Container.Using.Jenkins.pdf)
-
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
 
 ## Project #2: Deploying our application securely in an Ec2 instance
 This project demonstrates how to create a VPC to secure our application within a VPC so that we can use it for servers in a production environment.
@@ -15,8 +12,7 @@ To improve resiliency, deployed the servers in Two Availability Zones using an A
 
 ![AWS-Project drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/645109ef-a867-4270-ba82-459b5e5f8700)
 
-Check more information at [Deploying our application securely in an Ec2 instance.pdf](https://github.com/Jayalakshmi-i/jayatestrepo/files/13615083/Deploying.our.application.securely.in.an.Ec2.instance.pdf)
-
+Check more information at 
 ## Project #3: Static website hosting on AWS using Terraform 
 
 This project explains how to create an s3 bucket with all configurations and set a static website hosting to showcase a portfolio, projects, and resumes on AWS using Terraform.
