@@ -12,7 +12,8 @@ To improve resiliency, deployed the servers in Two Availability Zones using an A
 
 ![AWS-Project drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/645109ef-a867-4270-ba82-459b5e5f8700)
 
-Check more information at 
+Check more information at [Deploying our application securely in an Ec2 instance.pdf](https://github.com/Jayalakshmi-i/jayatestrepo/files/13688174/Deploying.our.application.securely.in.an.Ec2.instance.pdf)
+
 ## Project #3: Static website hosting on AWS using Terraform 
 
 This project explains how to create an s3 bucket with all configurations and set a static website hosting to showcase a portfolio, projects, and resumes on AWS using Terraform.
