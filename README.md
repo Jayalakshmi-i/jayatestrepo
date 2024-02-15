@@ -7,9 +7,10 @@ This project focuses on implementing a robust Continuous Integration and Continu
 <p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
 
 ## Project 2: Deploying our application securely in an Ec2 instance
+
 This project demonstrates how to create a VPC to secure our application within a VPC so that we can use it for servers in a production environment.
 
-To improve resiliency, deployed the servers in Two Availability Zones using an Auto Scaling group and an Application Load Balancer. For additional security, we deploy the servers in private subnets. The servers receive requests through the load balancer. The servers can connect to the internet by using a NAT gateway. To improve resiliency, we deploy the NAT in both availability zones.
+To improve resiliency, deployed the servers in Two Availability Zones using an Auto Scaling group and an Application Load Balancer. For additional security, we deploy the servers in private subnets. The servers receive requests through the load balancer. The servers can connect to the internet by using a NAT gateway. To improve resiliency, we deploy NAT in both availability zones.
 
 ![AWS-Project drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/645109ef-a867-4270-ba82-459b5e5f8700)
 
