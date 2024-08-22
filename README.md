@@ -25,3 +25,11 @@ With Terraform, we can automate the process of S3 bucket creation and configurat
 
 <p>Check the Project files at: <a href="https://github.com/Jayalakshmi-i/Terraform-Static-website/">Click Here</a></p>
 
+## Project 4: Jenkins Pipeline for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes
+
+This project will automate the entire CI/CD process for a Java application  using Jenkins pipeline using Git, Sonaqube, Argo CD, and Kubernetes. Configured Jenkins Pipeline will monitor new code commits which triggers webhook to build and test the pipeline efficiently, then integrate with Sonaqube for code quality check, and finally deploy the Jave application on Kubernetes cluster using Argo CD server on website.
+
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/" target="blank">Click Here</a></p>
+
+<img width="1000" alt="Screenshot 2023-03-28 at 9 38 09 PM" src="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/assets/141424247/f017f64d-bd32-434b-a632-60f0db82e4b3">
+
