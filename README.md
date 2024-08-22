@@ -31,5 +31,5 @@ This project will automate the entire CI/CD process for a Java application  usin
 
 <p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/" target="blank">Click Here</a></p>
 
-<img width="900" alt="Screenshot 2023-03-28 at 9 38 09 PM" src="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/assets/141424247/f017f64d-bd32-434b-a632-60f0db82e4b3">
+<img width="950" alt="Screenshot 2023-03-28 at 9 38 09 PM" src="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/assets/141424247/f017f64d-bd32-434b-a632-60f0db82e4b3">
 
