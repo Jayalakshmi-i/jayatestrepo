@@ -16,22 +16,21 @@ To improve resiliency, deployed the servers in Two Availability Zones using an A
 
 Check more information at [Deploying our application securely in an Ec2 instance.pdf](https://github.com/Jayalakshmi-i/jayatestrepo/files/13688174/Deploying.our.application.securely.in.an.Ec2.instance.pdf)
 
-## Project 3: Automated deployment of WAR File to Tomcat Server through CI/CD Pipeline
+## Project 3: Ultimate monitoring using Prometheus
+
+In this project, I implemented a robust monitoring solution using Prometheus to ensure the reliability and performance of our infrastructure. The main objective was to set up real-time monitoring for a website and an EC2 instance, allowing us to address threats quickly and maintain optimal performance.
+
+![image](https://github.com/user-attachments/assets/5e0683f0-c845-436d-9b52-086415b4b4a8)
+
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Observability-Prometheus-Grafana/tree/main/Monitoring%20project" target="blank">Click Here</a></p>
+
+## Project 4: Automated deployment of WAR File to Tomcat Server through CI/CD Pipeline
 
 This project focuses on implementing a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using tools like Git, Jenkins, Dockerfile, and Maven within the AWS Cloud environment. Configured Jenkins jobs to automatically trigger builds upon new code commits, build efficiently and deploy WAR files to a Tomcat server on EC2 instance, and consistently delivery to web applications.
 
 ![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
 
 <p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
-
-## Project 4: Ultimate monitoring using Prometheus
-
-This project focuses on implementing a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using tools like Git, Jenkins, Dockerfile, and Maven within the AWS Cloud environment. Configured Jenkins jobs to automatically trigger builds upon new code commits, build efficiently and deploy WAR files to a Tomcat server on EC2 instance, and consistently delivery to web applications.
-
-![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
-
-<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
-
 
 ## Project 5: Static website hosting on AWS using Terraform 
 
