@@ -1,10 +1,10 @@
-## Project 1: Automated deployment of WAR File to Tomcat Server through CI/CD Pipeline
+## Project 1: Jenkins Pipeline for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes
 
-This project focuses on implementing a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using tools like Git, Jenkins, Dockerfile, and Maven within the AWS Cloud environment. Configured Jenkins jobs to automatically trigger builds upon new code commits, build efficiently and deploy WAR files to a Tomcat server on EC2 instance, and consistently delivery to web applications.
+This project will automate the entire CI/CD process for a Java application  using Jenkins pipeline using Git, Sonaqube, Argo CD, and Kubernetes. Configured Jenkins Pipeline will monitor new code commits which triggers webhook to build and test the pipeline efficiently, then integrate with Sonaqube for code quality check, and finally deploy the Jave application on Kubernetes cluster using Argo CD server on website.
 
-![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/" target="blank">Click Here</a></p>
 
-<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
+<img width="950" alt="Screenshot 2023-03-28 at 9 38 09 PM" src="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/assets/141424247/f017f64d-bd32-434b-a632-60f0db82e4b3">
 
 ## Project 2: Deploying our application securely in an Ec2 instance
 
@@ -16,7 +16,24 @@ To improve resiliency, deployed the servers in Two Availability Zones using an A
 
 Check more information at [Deploying our application securely in an Ec2 instance.pdf](https://github.com/Jayalakshmi-i/jayatestrepo/files/13688174/Deploying.our.application.securely.in.an.Ec2.instance.pdf)
 
-## Project 3: Static website hosting on AWS using Terraform 
+## Project 3: Automated deployment of WAR File to Tomcat Server through CI/CD Pipeline
+
+This project focuses on implementing a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using tools like Git, Jenkins, Dockerfile, and Maven within the AWS Cloud environment. Configured Jenkins jobs to automatically trigger builds upon new code commits, build efficiently and deploy WAR files to a Tomcat server on EC2 instance, and consistently delivery to web applications.
+
+![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
+
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
+
+## Project 4: Ultimate monitoring using Prometheus
+
+This project focuses on implementing a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using tools like Git, Jenkins, Dockerfile, and Maven within the AWS Cloud environment. Configured Jenkins jobs to automatically trigger builds upon new code commits, build efficiently and deploy WAR files to a Tomcat server on EC2 instance, and consistently delivery to web applications.
+
+![CI_CD drawio](https://github.com/Jayalakshmi-i/CI-CD/assets/141424247/6ac088da-e782-4e0f-a6f8-3ba46420c49b)
+
+<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></p>
+
+
+## Project 5: Static website hosting on AWS using Terraform 
 
 This project explains how to create an s3 bucket with all configurations and set a static website hosting to showcase a portfolio, projects, and resumes on AWS using Terraform.
 With Terraform, we can automate the process of S3 bucket creation and configuration, defining the bucket policy to make our website accessible.
@@ -25,11 +42,4 @@ With Terraform, we can automate the process of S3 bucket creation and configurat
 
 <p>Check the Project files at: <a href="https://github.com/Jayalakshmi-i/Terraform-Static-website/">Click Here</a></p>
 
-## Project 4: Jenkins Pipeline for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes
-
-This project will automate the entire CI/CD process for a Java application  using Jenkins pipeline using Git, Sonaqube, Argo CD, and Kubernetes. Configured Jenkins Pipeline will monitor new code commits which triggers webhook to build and test the pipeline efficiently, then integrate with Sonaqube for code quality check, and finally deploy the Jave application on Kubernetes cluster using Argo CD server on website.
-
-<p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/" target="blank">Click Here</a></p>
-
-<img width="950" alt="Screenshot 2023-03-28 at 9 38 09 PM" src="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/assets/141424247/f017f64d-bd32-434b-a632-60f0db82e4b3">
 
