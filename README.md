@@ -1,6 +1,6 @@
 ## Project 1: Jenkins Pipeline for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes
 
-This project will automate the entire CI/CD process for a Java application  using Jenkins pipeline using Git, Sonaqube, Argo CD, and Kubernetes. Configured Jenkins Pipeline will monitor new code commits which triggers webhook to build and test the pipeline efficiently, then integrate with Sonaqube for code quality check, and finally deploy the Jave application on Kubernetes cluster using Argo CD server on website.
+This project will automate the entire CI/CD process for a Java application  using Jenkins pipeline using Git, Sonarqube, Argo CD, and Kubernetes. Configured Jenkins Pipeline will monitor new code commits which triggers webhook to build and test the pipeline efficiently, then integrate with Sonaqube for code quality check, and finally deploy the Jave application on Kubernetes cluster using Argo CD server on website.
 
 <p>Check complete details at: <a href="https://github.com/Jayalakshmi-i/Jenkins-End-to-End-CICD/" target="blank">Click Here</a></p>
 
